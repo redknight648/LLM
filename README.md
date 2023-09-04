@@ -6,7 +6,7 @@
 ```
 
 ```
-3. Quantization using BitsAndBytes(QLoRA) vs GPTQ
+3. Quantization using BitsAndBytes(QLoRA-nested_quant) vs GPTQ
    Observations on model (NousResearch/Llama-2-7b-chat-hf)
    * original size: 3,829,940,224 bytes
    * after training/tuning: 4,488,978,432 bytes
