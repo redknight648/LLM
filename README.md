@@ -13,3 +13,6 @@
    * after loading PEFT adapters: 13,543,948,288 bytes
   GPTQ operation error: unable to perform disk offload on colab free tier (15Gb)
 ```
+```
+4. Experimenting  GGUF (Generalizable Generative UTF) to run querys on codellama-13b-instruct
+```
